@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\bin\Debug\netcoreapp3.1\ExemploFunction.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploFunction\ExemploFunction\obj\Debug\netcoreapp3.1\ExemploFunction.genruntimeconfig.cache
