@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 namespace ConstrutorExemplo1
 {
@@ -18,28 +18,14 @@ namespace ConstrutorExemplo1
                 
             Produto p2 = new Produto();
 
-            Produto p3 = new Produto() 
-            { 
-                Nome = "TV", 
-                Preco = 500.0, 
-                Quantidade = 10 
+            Produto p3 = new Produto()
+            {
+                Nome = "TV",
+                Preco = 500.0,
+                Quantidade = 10
             };
 
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
 
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
-
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser removido do estoque: ");
-            
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
