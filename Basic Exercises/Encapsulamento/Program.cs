@@ -8,9 +8,9 @@ namespace Encapsulamento
         {
             Produto p = new Produto("PS4", 3999.98, 2);
 
-            p.SetNome("PS4 PRO");
+            p.Nome = "PS4 PRO";
 
-            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.Nome);
 
 
         }

@@ -20,28 +20,28 @@ namespace Encapsulamento
             _preco = preco;
             _quantidade = quantidade;
         }
-        public string GetNome()
+        public string Nome
         {
-            return _nome;
-        }
-        public void SetNome(string nome)
-        {
-            if (nome != null && nome.Length > 1)
+            get { return _nome; }
+            set
             {
-                _nome = nome;
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
             }
         }
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get { return _preco; }
         }
-        public int GetQuantidade()
+        public int Quantidade
         {
-            return _quantidade;
+            get { return _quantidade; }
         }
-        public double ValorTotalEmEstoque()
+        public double ValorTotalEmEstoque
         {
-            return _preco * _quantidade;
+            get { return _preco * _quantidade; }
         }
         public void AdicionarProdutos(int quantidade)
         {
@@ -59,7 +59,7 @@ namespace Encapsulamento
             + ", "
             + _quantidade
             + " unidades, Total: $ "
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            + ValorTotalEmEstoque.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
