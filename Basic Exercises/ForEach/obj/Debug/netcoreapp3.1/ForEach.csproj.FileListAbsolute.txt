@@ -1,0 +1,12 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
