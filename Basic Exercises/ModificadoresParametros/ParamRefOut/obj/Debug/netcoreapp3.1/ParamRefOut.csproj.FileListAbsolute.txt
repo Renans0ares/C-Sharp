@@ -1,0 +1,12 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\bin\Debug\netcoreapp3.1\ParamRefOut.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ParamRefOut\ParamRefOut\obj\Debug\netcoreapp3.1\ParamRefOut.genruntimeconfig.cache
