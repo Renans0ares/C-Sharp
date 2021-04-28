@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache
