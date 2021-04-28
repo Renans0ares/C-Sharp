@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\bin\Debug\netcoreapp3.1\ModifParam.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ModifParam\ModifParam\obj\Debug\netcoreapp3.1\ModifParam.genruntimeconfig.cache
