@@ -1,0 +1,81 @@
+using System;
+using System.Globalization;
+
+namespace Course
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*var x = 10;
+            var y = 20.9;
+            var z = "Renan";*/
+
+            //double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            //double desconto = (preco < 20.0) ? preco * 0.1 : preco * 0.05;
+
+            //Console.WriteLine(desconto.ToString("F2", CultureInfo.InvariantCulture));
+
+
+
+            // FUNÇÕES STRING
+            // 
+            /*string original = "abcde FGHIJ ABC abc DEFG     ";
+
+            string s1 = original.ToUpper();
+            string s2 = original.ToLower();
+            string s3 = original.Trim();
+
+            int n1 = original.IndexOf("FG"); //Cada posição de caracter
+            int n2 = original.LastIndexOf("FG");
+
+            string s4 = original.Substring(3); //corta apartir da posicao 3 mostrando em diante
+            string s5 = original.Substring(3, 10); //corta até onde der
+
+            string s6 = original.Replace('a', 'x'); //Trocar todo caracter a por x
+            string s7 = original.Replace("abc", "xyz");
+
+            bool b1 = String.IsNullOrEmpty(original); //NULO OU VAZIO
+            bool b2 = String.IsNullOrWhiteSpace(original);
+
+            Console.WriteLine("Original: " + original + "-");
+            Console.WriteLine("ToUpper: " + s1 + "-");
+            Console.WriteLine("ToLower: " + s2 + "-");
+            Console.WriteLine("Trim: " + s3 + "-");
+            Console.WriteLine("IndexOf: " + n1);
+            Console.WriteLine("LastIndexOf: " + n2);
+            Console.WriteLine("Substring: " + s4 + "-");
+            Console.WriteLine("Substring: " + s5);
+            Console.WriteLine("Replace: " + s6);
+            Console.WriteLine("Substring: " + s7);
+            Console.WriteLine("IsNullOrEmpty: " + b1);
+            Console.WriteLine("IsNullOrWhiteSpace: " + b2);*/
+
+            /*DateTime d1 = DateTime.Now;
+
+            Console.WriteLine(d1);
+            Console.WriteLine(d1.Ticks);
+
+            //CONSTRUTOR
+            DateTime day = new DateTime(2001, 10, 28, 07, 30, 18);
+
+            Console.WriteLine(day);
+
+            DateTime d2 = DateTime.Today;
+            Console.WriteLine(d2);
+
+            DateTime d3 = DateTime.UtcNow;
+            Console.WriteLine(d3);*/
+
+           /* DateTime d1 = DateTime.Parse("2000-01-05");
+
+            Console.WriteLine(d1);
+
+            DateTime d2 = DateTime.ParseExact("2001-10-28", "yyyy-MM-dd", CultureInfo.InvariantCulture);
+
+            Console.WriteLine(d2);*/
+
+        }
+    }
+}
