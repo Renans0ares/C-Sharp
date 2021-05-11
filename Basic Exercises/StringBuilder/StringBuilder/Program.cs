@@ -30,6 +30,9 @@ namespace ConstruirString
 
             p2.AddComent(c3);
             p2.AddComent(c4);
+            
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
         }
     }
 }
