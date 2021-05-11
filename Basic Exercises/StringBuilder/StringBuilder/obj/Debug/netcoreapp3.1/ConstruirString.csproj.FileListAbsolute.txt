@@ -1,0 +1,12 @@
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.exe
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.deps.json
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.dll
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\ConstruirString.pdb
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.dll
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.pdb
+C:\Users\renan.sousa\source\repos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\ConstruirString.genruntimeconfig.cache
