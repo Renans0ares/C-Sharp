@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobreposicao", "Sobreposicao\Sobreposicao.csproj", "{3499F738-3A6F-4DB6-9CA2-4185F6B08C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3499F738-3A6F-4DB6-9CA2-4185F6B08C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3499F738-3A6F-4DB6-9CA2-4185F6B08C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3499F738-3A6F-4DB6-9CA2-4185F6B08C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3499F738-3A6F-4DB6-9CA2-4185F6B08C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CE58A3-B4DE-422A-8347-A6B48E881D86}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.exe
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.deps.json
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\renan.sousa\source\repos\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.genruntimeconfig.cache
