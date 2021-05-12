@@ -1,0 +1,12 @@
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.exe
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.deps.json
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.dll
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.pdb
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.dll
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.pdb
+C:\Users\renan.sousa\source\repos\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.genruntimeconfig.cache
