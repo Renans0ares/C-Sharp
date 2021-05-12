@@ -6,29 +6,29 @@ namespace Herança.Entities
 {
     class Account
     {
-        public int Number { get; set; }
-        public string Holder { get; set; }
-        public double Balane { get; set; }
+        public int Number { get; private set; }
+        public string Holder { get; private set; }
+        public double Balance { get; protected set; }
 
         public Account()
         {
         }
 
-        public Account(int number, string holder, double balane)
+        public Account(int number, string holder, double balance)
         {
             Number = number;
             Holder = holder;
-            Balane = balane;
+            Balance = balance;
         }
 
         public void Withdraw(double amount)
         {
-            Balane -= amount;
+            Balance -= amount;
         }
 
         public void Deposit(double amount)
         {
-            Balane += amount;
+            Balance += amount;
         }
     }
 }
