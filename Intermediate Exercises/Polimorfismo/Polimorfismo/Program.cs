@@ -49,6 +49,7 @@ namespace Polimorfismo
             {
                 Console.WriteLine(count.Name + " - $ " + count.Payment().ToString("F2", CultureInfo.InvariantCulture));
             }
+            
         }
     }
 }
