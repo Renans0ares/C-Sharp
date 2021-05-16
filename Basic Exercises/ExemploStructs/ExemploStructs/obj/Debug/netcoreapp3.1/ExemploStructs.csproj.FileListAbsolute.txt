@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\bin\Debug\netcoreapp3.1\ExemploStructs.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExemploStructs\ExemploStructs\obj\Debug\netcoreapp3.1\ExemploStructs.genruntimeconfig.cache

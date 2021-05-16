@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\bin\Debug\netcoreapp3.1\ExerFixVetores.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFixVetores\ExerFixVetores\obj\Debug\netcoreapp3.1\ExerFixVetores.genruntimeconfig.cache

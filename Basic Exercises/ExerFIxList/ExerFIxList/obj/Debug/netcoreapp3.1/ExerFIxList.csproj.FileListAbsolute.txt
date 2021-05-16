@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\bin\Debug\netcoreapp3.1\ExerFIxList.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExerFIxList\ExerFIxList\obj\Debug\netcoreapp3.1\ExerFIxList.genruntimeconfig.cache
