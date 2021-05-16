@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\bin\Debug\netcoreapp3.1\ConstrutorExemplo1.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ConstrutorExemplo1\ConstrutorExemplo1\obj\Debug\netcoreapp3.1\ConstrutorExemplo1.genruntimeconfig.cache
