@@ -1,0 +1,13 @@
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.exe
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.deps.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.runtimeconfig.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.runtimeconfig.dev.json
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\bin\Debug\netcoreapp3.1\ExFixPOO1.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.AssemblyInfo.cs
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.dll
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.pdb
+C:\Users\renan\Desktop\Programação\Exer C#\ExFixPOO1\ExFixPOO1\obj\Debug\netcoreapp3.1\ExFixPOO1.genruntimeconfig.cache
