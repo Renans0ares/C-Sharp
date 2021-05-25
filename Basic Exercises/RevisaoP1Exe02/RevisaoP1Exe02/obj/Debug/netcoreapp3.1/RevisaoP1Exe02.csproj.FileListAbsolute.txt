@@ -1,0 +1,26 @@
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.exe
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.deps.json
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.runtimeconfig.json
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.dll
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.pdb
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.dll
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.pdb
+C:\Users\PICHAU\source\repos\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.genruntimeconfig.cache
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.exe
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.deps.json
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.runtimeconfig.json
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.runtimeconfig.dev.json
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.dll
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\bin\Debug\netcoreapp3.1\RevisaoP1Exe02.pdb
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.AssemblyInfo.cs
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.dll
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.pdb
+C:\Users\renan\Desktop\UNIARARAS\Ling Prog_Estru de Dados\3° Ano 1° Sem\RevisaoP1Exe02\RevisaoP1Exe02\obj\Debug\netcoreapp3.1\RevisaoP1Exe02.genruntimeconfig.cache
