@@ -1,0 +1,13 @@
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csprojAssemblyReference.cache
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.exe
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.deps.json
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\Users\renan.sousa\source\repos\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.genruntimeconfig.cache
