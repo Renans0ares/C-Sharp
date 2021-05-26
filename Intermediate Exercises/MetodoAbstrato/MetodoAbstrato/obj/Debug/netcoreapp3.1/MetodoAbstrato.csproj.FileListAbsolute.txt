@@ -1,0 +1,13 @@
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.exe
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.deps.json
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csprojAssemblyReference.cache
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\renan.sousa\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.genruntimeconfig.cache
