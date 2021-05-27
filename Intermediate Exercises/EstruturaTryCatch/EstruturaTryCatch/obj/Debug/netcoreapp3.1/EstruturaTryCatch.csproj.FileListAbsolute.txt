@@ -1,0 +1,13 @@
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.exe
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.deps.json
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.dll
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\netcoreapp3.1\EstruturaTryCatch.pdb
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.csprojAssemblyReference.cache
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.dll
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.pdb
+C:\Users\renan.sousa\source\repos\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\netcoreapp3.1\EstruturaTryCatch.genruntimeconfig.cache
