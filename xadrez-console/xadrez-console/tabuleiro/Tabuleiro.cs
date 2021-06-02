@@ -28,6 +28,7 @@
             validarPosicao(pos);
             return peca(pos) != null;
         }
+
         public void colocarPeca(Peca p, Posicao pos)
         {
             if (existePeca(pos))
@@ -38,16 +39,26 @@
             p.posicao = pos;
         }
 
+        public Peca retirarPeca(Posicao pos)
+        {
+            if(peca(pos) == null)
+            {
+                return null;
+            }
+            Peca aux = peca(pos);
+            aux.posicao = null;
+            pecas[pos.linha, pos.coluna] = null;
+            return aux;
+        }
+
         public bool posicaoValida(Posicao pos)
         {
             if(pos.linha < 0 || pos.linha >= linhas || pos.coluna < 0 || pos.coluna >= colunas)
             {
                 return false;
             }
-            else
-            {
-                return true;
-            }
+
+            return true;
         }
 
         public void validarPosicao(Posicao pos)
