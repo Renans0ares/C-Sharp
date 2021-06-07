@@ -1,0 +1,13 @@
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.exe
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.deps.json
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.dll
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\bin\Debug\netcoreapp3.1\FileStreamandStremReader.pdb
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.csprojAssemblyReference.cache
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.dll
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.pdb
+C:\Users\renan.sousa\source\repos\FileStreamandStremReader\FileStreamandStremReader\obj\Debug\netcoreapp3.1\FileStreamandStremReader.genruntimeconfig.cache
