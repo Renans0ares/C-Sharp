@@ -1,0 +1,13 @@
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.exe
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.deps.json
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.runtimeconfig.json
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.runtimeconfig.dev.json
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.dll
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\bin\Debug\netcoreapp3.1\TrabalhandoArquivos.pdb
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.csprojAssemblyReference.cache
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.AssemblyInfoInputs.cache
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.AssemblyInfo.cs
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.dll
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.pdb
+C:\Users\renan.sousa\source\repos\TrabalhandoArquivos\TrabalhandoArquivos\obj\Debug\netcoreapp3.1\TrabalhandoArquivos.genruntimeconfig.cache
